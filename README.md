@@ -1,5 +1,7 @@
-# hello-world
+## hello-world
 
-just testing
-making a branch  i am making branch it is time 2 merge it 
-ydp
+i am making an readme
+
+testing out some things
+
+i think i have to double space
